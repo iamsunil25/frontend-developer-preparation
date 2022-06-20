@@ -14,3 +14,4 @@
 8. [Guess the js output](https://www.linkedin.com/in/nageshwar-nag-attended-ngindia/recent-activity/shares/)
 9. [Callback vs promise vs async await](https://medium.com/@ashokjayaprakash/callback-vs-promise-vs-async-await-6c4081f0f0d3)
 10.  [Is javascript compiled or interpreted ?](https://stackoverflow.com/questions/9623813/is-javascript-compiled-or-an-interpreted-language)
+11.  [debouncing in javascript](https://www.linkedin.com/feed/update/urn:li:activity:6944669469252165632/)
