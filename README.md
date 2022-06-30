@@ -17,3 +17,4 @@
 11.  [debouncing in javascript](https://www.linkedin.com/feed/update/urn:li:activity:6944669469252165632/)
 12.  [composing in javascript](https://www.educative.io/answers/function-composition-in-javascript)
 13. [JSON vs BSON](https://www.geeksforgeeks.org/difference-between-json-and-bson/)
+14. [[object Object] in javascript ?](https://careerkarma.com/blog/javascript-object-object/)
