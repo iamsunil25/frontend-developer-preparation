@@ -16,9 +16,11 @@
 10.  [Is javascript compiled or interpreted ?](https://stackoverflow.com/questions/9623813/is-javascript-compiled-or-an-interpreted-language)
 11.  [debouncing in javascript](https://www.linkedin.com/feed/update/urn:li:activity:6944669469252165632/)
 12.  [composing in javascript](https://www.educative.io/answers/function-composition-in-javascript)
-13. [JSON vs BSON](https://www.geeksforgeeks.org/difference-between-json-and-bson/)
-14. [[object Object] in javascript](https://careerkarma.com/blog/javascript-object-object/)
-15. [console.log vs console.dir](https://www.geeksforgeeks.org/difference-between-console-dir-and-console-log-2/) 
-16. [currying in js ](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5)
-17. [enumerable property in js](https://www.geeksforgeeks.org/what-does-enumerable-property-mean-in-javascript/#:~:text=An%20enumerable%20property%20in%20JavaScript,initializer%20are%20enumerable%20by%20default.)
+13.[JSON vs BSON](https://www.geeksforgeeks.org/difference-between-json-and-bson/)
+14.[[object Object] in javascript](https://careerkarma.com/blog/javascript-object-object/)
+15.[console.log vs console.dir](https://www.geeksforgeeks.org/difference-between-console-dir-and-console-log-2/) 
+16.[currying in javascript ](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5)
+17.[enumerable property in js](https://www.geeksforgeeks.org/what-does-enumerable-property-mean-in-javascript/#:~:text=An%20enumerable%20property%20in%20JavaScript,initializer%20are%20enumerable%20by%20default.)
+18.[memoization in javascript](https://betterprogramming.pub/javascript-performance-introduction-to-memoization-64793ce63100)
+19. 
 
