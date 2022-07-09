@@ -17,7 +17,7 @@
 11.  [debouncing in javascript](https://www.linkedin.com/feed/update/urn:li:activity:6944669469252165632/)
 12.  [composing in javascript](https://www.educative.io/answers/function-composition-in-javascript)
 13. [JSON vs BSON](https://www.geeksforgeeks.org/difference-between-json-and-bson/)
-14. [object Object] in javascript](https://careerkarma.com/blog/javascript-object-object/)
+14. [[object Object] in javascript](https://careerkarma.com/blog/javascript-object-object/)
 15. [console.log vs console.dir](https://www.geeksforgeeks.org/difference-between-console-dir-and-console-log-2/) 
 16. [currying in javascript ](https://codeburst.io/perpetual-currying-in-javascript-5ae1c749adc5)
 17. [enumerable property in javascript](https://www.geeksforgeeks.org/what-does-enumerable-property-mean-in-javascript/#:~:text=An%20enumerable%20property%20in%20JavaScript,initializer%20are%20enumerable%20by%20default.)
@@ -25,4 +25,5 @@
 19. [polyfills in javascript](https://medium.com/beginners-guide-to-mobile-web-development/introduction-to-polyfills-their-usage-9cd6db4b1923)
 20. [closure in javascript](https://medium.com/@faminiprodev/closure-d83419aa8a81)
 21. [throttling and debouncing in javascript](https://medium.com/@adarshtyagi/debouncing-and-throttling-in-javascript-a34e4ade1e22)
-
+22. [async and defer attribute in script tag](https://www.geeksforgeeks.org/explain-asynchronous-vs-deferred-javascript/)
+23. [preventDefault, stopPropogation, stopImmediatePropogation](https://medium.com/developers-arena/understanding-preventdefault-stoppropagation-and-stopimmediatepropagation-when-working-with-61842c37e012)
