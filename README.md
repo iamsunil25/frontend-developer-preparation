@@ -27,3 +27,4 @@
 21. [throttling and debouncing in javascript](https://medium.com/@adarshtyagi/debouncing-and-throttling-in-javascript-a34e4ade1e22)
 22. [async and defer attribute in script tag](https://www.geeksforgeeks.org/explain-asynchronous-vs-deferred-javascript/)
 23. [preventDefault, stopPropogation, stopImmediatePropogation](https://medium.com/developers-arena/understanding-preventdefault-stoppropagation-and-stopimmediatepropagation-when-working-with-61842c37e012)
+24. [how js works behind the scenes](https://coralogix.com/blog/how-js-works-behind-the-scenes-the-engine/)
