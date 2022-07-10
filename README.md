@@ -1,3 +1,5 @@
+## if you want to add question or want to contribute then please make pull request  
+## html, css and js (advanced frontend web interview question) 
 #  Frontend developer preparation content with their link
  
  1. [Event delegation, event bubbling and event capturing](https://rajatgupta.xyz/events-1).
@@ -28,3 +30,4 @@
 22. [async and defer attribute in script tag](https://www.geeksforgeeks.org/explain-asynchronous-vs-deferred-javascript/)
 23. [preventDefault, stopPropogation, stopImmediatePropogation](https://medium.com/developers-arena/understanding-preventdefault-stoppropagation-and-stopimmediatepropagation-when-working-with-61842c37e012)
 24. [how js works behind the scenes](https://coralogix.com/blog/how-js-works-behind-the-scenes-the-engine/)
+25. [function is first class citizen in javascript](https://www.geeksforgeeks.org/what-is-first-class-citizen-in-javascript/#:~:text=Functions%20are%20very%20important%20and,treated%20as%20First%20Class%20Citizens.) 
