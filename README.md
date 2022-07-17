@@ -28,3 +28,4 @@
 24. [how js works behind the scenes](https://coralogix.com/blog/how-js-works-behind-the-scenes-the-engine/)
 25. [function is first class citizen in javascript](https://www.geeksforgeeks.org/what-is-first-class-citizen-in-javascript/#:~:text=Functions%20are%20very%20important%20and,treated%20as%20First%20Class%20Citizens.) 
 26. [insta page for javascript interview questions](https://www.instagram.com/ui_dev_guide/)
+27. [javascript single threaded and non-blocking ](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
