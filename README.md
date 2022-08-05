@@ -30,3 +30,4 @@
 26. [insta page for javascript interview questions](https://www.instagram.com/ui_dev_guide/)
 27. [javascript single threaded and non-blocking ](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
 28. [javascript scopes-hoisting-closures-tricky-questions](https://dev.to/midasxiv/scopes-hoisting-closures-tricky-questions-4c85)
+29. [generators in javascript](https://www.geeksforgeeks.org/javascript-generator)
