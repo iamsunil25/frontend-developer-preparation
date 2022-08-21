@@ -31,3 +31,4 @@
 27. [javascript single threaded and non-blocking ](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
 28. [javascript scopes-hoisting-closures-tricky-questions](https://dev.to/midasxiv/scopes-hoisting-closures-tricky-questions-4c85)
 29. [generators in javascript](https://www.geeksforgeeks.org/javascript-generator)
+30. [REST Api vs SOAP Api](https://pmi-sesni.medium.com/soap-vs-rest-d9f00fde2f7f) 
