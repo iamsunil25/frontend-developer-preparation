@@ -32,3 +32,4 @@
 28. [javascript scopes-hoisting-closures-tricky-questions](https://dev.to/midasxiv/scopes-hoisting-closures-tricky-questions-4c85)
 29. [generators in javascript](https://www.geeksforgeeks.org/javascript-generator)
 30. [REST Api vs SOAP Api](https://pmi-sesni.medium.com/soap-vs-rest-d9f00fde2f7f) 
+31. [Promise.all](https://www.dalejefferson.com/articles/2018-02-06-async-await-promise-all-array-destructuring/)
