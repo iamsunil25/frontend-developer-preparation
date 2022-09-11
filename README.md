@@ -33,3 +33,4 @@
 29. [generators in javascript](https://www.geeksforgeeks.org/javascript-generator)
 30. [REST Api vs SOAP Api](https://pmi-sesni.medium.com/soap-vs-rest-d9f00fde2f7f) 
 31. [Promise.all](https://www.dalejefferson.com/articles/2018-02-06-async-await-promise-all-array-destructuring/)
+32. [deep copy vs shallow copy](https://www.geeksforgeeks.org/what-is-shallow-copy-and-deep-copy-in-javascript/)
