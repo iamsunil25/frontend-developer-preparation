@@ -34,3 +34,4 @@
 30. [REST Api vs SOAP Api](https://pmi-sesni.medium.com/soap-vs-rest-d9f00fde2f7f) 
 31. [Promise.all](https://www.dalejefferson.com/articles/2018-02-06-async-await-promise-all-array-destructuring/)
 32. [deep copy vs shallow copy](https://www.geeksforgeeks.org/what-is-shallow-copy-and-deep-copy-in-javascript/)
+33. [CSR VS SSR ](https://medium.com/@prashantramnyc/server-side-rendering-ssr-vs-client-side-rendering-csr-vs-pre-rendering-using-static-site-89f2d05182ef)
