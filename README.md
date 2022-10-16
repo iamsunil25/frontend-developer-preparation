@@ -38,3 +38,4 @@
 34. [noopener, noreferrer, nofollow](https://pointjupiter.com/what-noopener-noreferrer-nofollow-explained/)
 35. [arrow function vs normal function](https://medium.com/geekculture/regular-vs-arrow-function-1f8140fbcece#:~:text=In%20regular%20function%2C%20arguments%20will,function%20parameters%20should%20be%20unique)
 36. [HTMLCollection vs NodeList](https://medium.com/@layne_celeste/htmlcollection-vs-nodelist-4b83e3a4fb4b) 
+37. [URI, URL and URN](https://www.cbtnuggets.com/blog/technology/networking/networking-basics-whats-the-difference-between-uri-url-and-urn)
