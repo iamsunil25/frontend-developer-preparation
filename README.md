@@ -41,4 +41,5 @@
 36. [URI, URL and URN](https://www.cbtnuggets.com/blog/technology/networking/networking-basics-whats-the-difference-between-uri-url-and-urn)
 37. [Is javascript a statically typed or a dynamically typed language ?](https://levelup.gitconnected.com/understanding-javascript-coercion-in-a-dynamically-typed-language-8807d6331fa2)
 38. [variable and function hoisting](https://medium.com/javascript-in-plain-english/https-medium-com-javascript-in-plain-english-what-is-hoisting-in-javascript-a63c1b2267a1)
-39. [how JS works ?](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/) 
+39. [how JS works ?](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/)
+40. [Center a div ?](https://www.instagram.com/p/Cm0m7QHLLUY/?utm_source=ig_web_copy_link)
