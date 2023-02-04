@@ -51,3 +51,4 @@
 46. [How does browser works ?](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509)
 47. [How does web works ?](https://academind.com/tutorials/how-the-web-works)
 48. [Js output based Ques](https://medium.com/@andreassujono/top-10-tricky-javascript-questions-often-asked-by-interviewers-45c7dd90495e)
+49. [Js output based Ques2](https://fatfish.medium.com/10-front-end-interview-questions-you-should-know-about-97a461e186f4)
