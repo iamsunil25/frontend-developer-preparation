@@ -47,3 +47,6 @@
 42. [http vs https](https://www.javatpoint.com/http-vs-https)
 43. [SSL vs TLS](https://www.geeksforgeeks.org/what-is-ssl-tls-handshake)
 44. [Apache vs NGINX](https://www.javatpoint.com/difference-between-apache-and-nginx)
+45. [DNS Working](https://phoenixnap.com/kb/what-is-domain-name-system-works)
+46. [How does browser works ?](https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509)
+47. [How does web works ?](https://academind.com/tutorials/how-the-web-works)
