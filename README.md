@@ -52,3 +52,4 @@
 47. [How does web works ?](https://academind.com/tutorials/how-the-web-works)
 48. [Js output based Ques](https://medium.com/@andreassujono/top-10-tricky-javascript-questions-often-asked-by-interviewers-45c7dd90495e)
 49. [Js output based Ques2](https://fatfish.medium.com/10-front-end-interview-questions-you-should-know-about-97a461e186f4)
+50 [Google lighthouse vs core web vitals](https://blog.duda.co/google-lighthouse-vs-cwv)
