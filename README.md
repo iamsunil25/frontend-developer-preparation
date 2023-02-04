@@ -44,3 +44,6 @@
 39. [how JS works ](https://www.freecodecamp.org/news/execution-context-how-javascript-works-behind-the-scenes/)
 40. [Center a div ](https://www.instagram.com/p/Cm0m7QHLLUY/?utm_source=ig_web_copy_link)
 41. [== vs === in js](https://stackoverflow.com/questions/359494/which-equals-operator-vs-should-be-used-in-javascript-comparisons)
+42. [http vs https](https://www.javatpoint.com/http-vs-https)
+43. [SSL vs TLS](https://www.geeksforgeeks.org/what-is-ssl-tls-handshake)
+44. [Apache vs NGINX](https://www.javatpoint.com/difference-between-apache-and-nginx)
