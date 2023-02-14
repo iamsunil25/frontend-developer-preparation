@@ -55,3 +55,5 @@
 50. [Google lighthouse vs core web vitals](https://blog.duda.co/google-lighthouse-vs-cwv)
 51. [Type Coercion](https://www.freecodecamp.org/news/coercion-and-type-conversion-in-javascript)
 52. [Temporal Dead Zone](https://www.educative.io/answers/what-is-the-temporal-dead-zone-in-javascript)
+53. [NPM VS YARN VS PNPM](https://www.atatus.com/blog/npm-vs-yarn-vs-pnpm)
+54. [What's the difference between tilde(~) and caret(^) in package.json ? ](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json?rq=1)
