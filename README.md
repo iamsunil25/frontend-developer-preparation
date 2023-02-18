@@ -57,3 +57,4 @@
 52. [Temporal Dead Zone](https://www.educative.io/answers/what-is-the-temporal-dead-zone-in-javascript)
 53. [NPM VS YARN VS PNPM](https://www.atatus.com/blog/npm-vs-yarn-vs-pnpm)
 54. [What's the difference between tilde(~) and caret(^) in package.json ? ](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json?rq=1)
+55. [Linux file permission](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)
