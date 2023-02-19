@@ -58,3 +58,4 @@
 53. [NPM VS YARN VS PNPM](https://www.atatus.com/blog/npm-vs-yarn-vs-pnpm)
 54. [What's the difference between tilde(~) and caret(^) in package.json ? ](https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json?rq=1)
 55. [Linux file permission](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)
+56. [Seo tips](https://www.greengeeks.com/blog/html-tags-for-seo/)
