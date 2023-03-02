@@ -60,3 +60,4 @@
 55. [Linux file permission](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)
 56. [Seo tips](https://www.greengeeks.com/blog/html-tags-for-seo/)
 57. [how do browsers render webpages ?](https://www.linkedin.com/feed/update/urn:li:activity:7036215066517520384?utm_source=share&utm_medium=member_desktop)
+58. [BEM Methodology for CSS styling](https://keepinguptodate.com/pages/2020/05/bem-visually-explained/)
