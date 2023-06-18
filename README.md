@@ -65,3 +65,5 @@
 60. [React performance optimization](https://asimzaidi.medium.com/performance-optimization-for-senior-front-end-engineers-in-react-typescript-334eca8cafe9)
 61. [What’s The Difference Between PX, EM, REM, %, VW, and VH?](https://elementor.com/help/whats-the-difference-between-px-em-rem-vw-and-vh/)
 62. [Components of a URL](https://www.linkedin.com/posts/brijpandeyji_softwareengineering-webdevelopment-programming-activity-7073984792857337856-mt4I?utm_source=share&utm_medium=member_desktop)
+63. [CSS Optimization tips for better performance](https://blog.logrocket.com/best-practices-improving-css-performance/)
+64. [Critical rendering path](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
