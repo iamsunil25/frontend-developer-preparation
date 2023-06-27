@@ -67,3 +67,5 @@
 62. [Components of a URL](https://www.linkedin.com/posts/brijpandeyji_softwareengineering-webdevelopment-programming-activity-7073984792857337856-mt4I?utm_source=share&utm_medium=member_desktop)
 63. [CSS Optimization tips for better performance](https://blog.logrocket.com/best-practices-improving-css-performance/)
 64. [Critical rendering path](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path)
+65. [Repaint and Reflow](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
+66. [Preload, Preconnect, Prefetch, Prerender](https://nitropack.io/blog/post/resource-hints-performance-optimization)
