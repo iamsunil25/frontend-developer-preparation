@@ -70,3 +70,4 @@
 65. [Repaint and Reflow](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
 66. [Preload, Preconnect, Prefetch, Prerender](https://nitropack.io/blog/post/resource-hints-performance-optimization)
 67. [Promise.all([]) vs Promise.allSettled([])](https://www.linkedin.com/posts/slobodan-gajic_js-promise-all-vs-allsettled-ugcPost-7093564911779295232-kgIq)
+68. [Javascript Design Patterns](https://www.linkedin.com/feed/update/urn:li:activity:7094581987654430723)
