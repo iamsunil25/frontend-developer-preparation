@@ -2,7 +2,7 @@
 ## html, css and js (advanced frontend web interview question) 
 #  Frontend developer preparation content with their link
  
- 1. [Event delegation, event bubbling and event capturing](https://rajatgupta.xyz/events-1).
+ 1. [Event delegation, event bubbling and event capturing](https://www.30secondsofcode.org/js/s/event-bubbling-capturing-delegation/).
   2. [Frontend important questions roadsider ](https://www.youtube.com/watch?v=abbdJ4Yfm54&t=35s)
  3. [Frontend important questions akshaysaini ](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
  4. [Advance js concepts](https://www.linkedin.com/feed/update/urn:li:activity:6938810165483696129/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6938810165483696129%29) 
