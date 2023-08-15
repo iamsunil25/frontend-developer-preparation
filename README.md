@@ -71,3 +71,5 @@
 66. [Preload, Preconnect, Prefetch, Prerender](https://nitropack.io/blog/post/resource-hints-performance-optimization)
 67. [Promise.all([]) vs Promise.allSettled([])](https://www.linkedin.com/posts/slobodan-gajic_js-promise-all-vs-allsettled-ugcPost-7093564911779295232-kgIq)
 68. [Javascript Design Patterns](https://www.linkedin.com/feed/update/urn:li:activity:7094581987654430723)
+69. [How Event Loop Works in js?](https://www.loginradius.com/blog/engineering/understanding-event-loop/#:~:text=Thus%20event%20loop%20works%20in,current%20function%20call%20is%20processed)
+70. [What is IIFE and usecases ?](https://www.geeksforgeeks.org/immediately-invoked-function-expressions-iife-in-javascript/)
