@@ -73,3 +73,5 @@
 68. [Javascript Design Patterns](https://www.linkedin.com/feed/update/urn:li:activity:7094581987654430723)
 69. [How Event Loop Works in js?](https://www.loginradius.com/blog/engineering/understanding-event-loop/#:~:text=Thus%20event%20loop%20works%20in,current%20function%20call%20is%20processed)
 70. [What is IIFE and usecases ?](https://www.geeksforgeeks.org/immediately-invoked-function-expressions-iife-in-javascript/)
+71. [slice VS substring in JavaScript](https://www.geeksforgeeks.org/difference-between-string-slice-and-string-substring-in-javascript/)
+72. [substr() VS substring() in JavaScript](https://www.geeksforgeeks.org/difference-between-substr-and-substring-in-javascript/)
