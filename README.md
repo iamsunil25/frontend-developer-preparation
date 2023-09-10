@@ -75,3 +75,4 @@
 70. [What is IIFE and usecases ?](https://www.geeksforgeeks.org/immediately-invoked-function-expressions-iife-in-javascript/)
 71. [slice VS substring in JavaScript](https://www.geeksforgeeks.org/difference-between-string-slice-and-string-substring-in-javascript/)
 72. [substr() VS substring() in JavaScript](https://www.geeksforgeeks.org/difference-between-substr-and-substring-in-javascript/)
+73. [Object VS MAP in Javascript](https://jscurious.com/map-in-javascript-and-how-it-is-better-than-object/)
